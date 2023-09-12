@@ -1,0 +1,4 @@
+CREATE TABLE course_subscription (
+	student_id INT,
+	course_id INT
+);

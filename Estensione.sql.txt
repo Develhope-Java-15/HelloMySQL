@@ -1,0 +1,4 @@
+CREATE TABLE student (
+	Name VARCHAR(255),
+	Surname VARCHAR(255)
+);

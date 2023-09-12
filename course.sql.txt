@@ -1,0 +1,5 @@
+CREATE TABLE courses (
+	id INT,
+	Name VARCHAR(255),
+	Max_Students_Number INT
+);
